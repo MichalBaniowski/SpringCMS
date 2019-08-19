@@ -30,6 +30,7 @@ This project was a part of the CodersLab course.
 * Data Base - MySql - version 8.0.13
 * Jstl - version - 1.2
 * Bootstrap 4
+* Tomcat - version - 9.0.14
 
 ## Features
 * create / read / update / delete articles
