@@ -23,6 +23,7 @@ This project was a part of the CodersLab course.
 ![donation form](img/article_form.png)
 
 ## Technologies
+* Java 8
 * Spring framework - version - 5.1.6.RELEASE
 * Spring Data Jpa - 2.1.8.RELEASE
 * Hibernate - version - 5.4.2.Final
